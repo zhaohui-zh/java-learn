@@ -6,5 +6,7 @@ Java学习。
 
 此部分对应
 
-## chapter
+## chapter02
+
+此部分对应Java并发编程与多线程
 
