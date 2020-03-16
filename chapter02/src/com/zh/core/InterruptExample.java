@@ -8,6 +8,7 @@ public class InterruptExample {
 
     public static void main(String[] args) {
         Runnable runnable = () -> {
+            // InterruptedException由sleep方法抛出
             try {
                 Thread.sleep(2000);
                 System.out.println("Thread run");
