@@ -9,5 +9,8 @@ package com.zh.core;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello");
+        String str = " World";
+        String str2 = " Java";
+        System.out.println(str + str2);
     }
 }
