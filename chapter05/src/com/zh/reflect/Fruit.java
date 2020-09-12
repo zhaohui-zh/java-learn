@@ -20,7 +20,7 @@ public class Fruit {
     }
 
     private void myPrivate() {
-        System.out.println("This ia a private method");
+        System.out.println("Thhhhhis ia a private method");
     }
 
 
